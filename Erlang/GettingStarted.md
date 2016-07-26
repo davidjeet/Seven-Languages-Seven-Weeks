@@ -8,7 +8,7 @@ I just went with the defaults.
 
 #Running Erlang
 
-Erlang can be run via **erl.exe**
+Erlang can be run via **werl.exe**
 (For me, that was in this path: *C:\Program Files\erl7.1\bin*)
 <br/>You should also get a shortcut on your desktop.
 
